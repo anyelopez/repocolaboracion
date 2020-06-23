@@ -6,7 +6,7 @@
 + Anyela Lopez
 
 2.__Links Trabajo en grupo__
-...![Project][logo]
+![Project][logo]
 [logo]: Code.jpg "Logo Title Text 1"
 
  1.Despliegue
