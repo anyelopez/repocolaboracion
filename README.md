@@ -1,12 +1,13 @@
 #  🚀 Pagina Web Colaborativa 
-## repositorio proyecto curso 2020 
+## Repositorio proyecto curso 2020 
 
-__Links Trabajo en grupo__
+1.__Integrantes grupo__
++ Michael Arias
++ Anyela Lopez
 
-![Project][logo]
-
+2.__Links Trabajo en grupo__
+...![Project][logo]
 [logo]: Code.jpg "Logo Title Text 1"
-...
-1.
->Ver en la [URL]: (https://)
-...
+
+ 1.Despliegue
+  >Ver proyecto en la [URL]: (https://)
