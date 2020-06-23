@@ -1,7 +1,6 @@
 #  🚀 Pagina Web Colaborativa 
 ## Repositorio proyecto curso 2020 
-![Project][logo]
-[logo]: Code.jpg "Logo Title Text 1"
+![Project](Code.jpg "Logo Title Text 1")
 
 __1.Integrantes grupo__
 + Michael Arias
