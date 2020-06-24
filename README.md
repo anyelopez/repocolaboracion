@@ -29,7 +29,7 @@ __2.  Links Trabajo en grupo__
 4. Abril
 5. Mayo
 Inline-style: 
-![Imagén](https://definicion.mx/flor/)
+![Imagén](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fflor-de-loto&psig=AOvVaw27abG509R0T94-WIlLY_4_&ust=1593114459272000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIig3Iicm-oCFQAAAAAdAAAAABAD)
 ## Lista ordenada ##
 - Colombia
 - Perú
