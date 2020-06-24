@@ -13,3 +13,26 @@ __2.  Links Trabajo en grupo__
    2. Acerca de
 
 **Agradecimientos a Bictia ❤️**
+
+
+
+
+
+
+
+
+
+# Lista ordenada #
+1. Enero
+2. Febrero
+3. Marzo
+4. Abril
+5. Mayo
+Inline-style: 
+![Imagén](https://definicion.mx/flor/)
+## Lista ordenada ##
+- Colombia
+- Perú
+- Alemania
+- Inglaterra 
+- Estados Unidos 
