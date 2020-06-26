@@ -1,6 +1,6 @@
 #  🚀 Pagina Web Colaborativa 
 
-![Project](Code.jpg "I love Code")
+![Project](Imagenes/Code.jpg "I love Code")
 ## Repositorio proyecto curso 2020 
 
 __1.  Integrantes grupo__
@@ -12,17 +12,7 @@ __2.  Links Trabajo en grupo__
   >Ver proyecto en la [URL]: (https://)
    2. Acerca de
 
-**Agradecimientos a Bictia ❤️**
-
-
-
-
-
-
-
-
-
-# Lista ordenada #
+# Lista ordenada
 1. Enero
 2. Febrero
 3. Marzo
@@ -30,9 +20,11 @@ __2.  Links Trabajo en grupo__
 5. Mayo
 Inline-style: 
 ![Imagén](https://definicion.mx/wp-content/uploads/2014/05/flor-350x350.jpg)
-## Lista ordenada ##
+## Lista desordenada
 - Colombia
 - Perú
 - Alemania
 - Inglaterra 
 - Estados Unidos 
+
+**Agradecimientos a Bictia ❤️**
